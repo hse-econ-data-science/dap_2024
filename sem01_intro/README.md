@@ -1,6 +1,6 @@
 ## Материалы к первой неделе
 
-* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2023/blob/main/sem01_intro/sem01_intro.ipynb)
+* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2024/blob/main/sem01_intro/sem01_intro.ipynb)
 * [Задачи для семинара на базовый типы](https://contest.yandex.ru/contest/48080/problems/)
 * [Задачи про действительные числа и строки](https://contest.yandex.ru/contest/48286/problems/)
 * Прочитать про то [как писать код красиво (PEP 8)](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)

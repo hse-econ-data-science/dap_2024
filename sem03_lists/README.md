@@ -1,6 +1,6 @@
 ## Материалы к неделям 2-3 (циклы, списки и условия)
 
-* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2023/blob/main/sem03_list/sem_03_memory.ipynb)
+* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2024/blob/main/sem03_list/sem_03_memory.ipynb)
 
 
 __Задачи для семинаров и самостоятельного решения:__ 
