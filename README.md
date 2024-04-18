@@ -4,8 +4,8 @@
 
 ## Важные ссылки:
 
-- Youtube-каналы с записями семинаров:  добавим позже
-- Таблица с вашими оценками: добавим позже
+- Youtube-каналы с записями семинаров: [канал Фила](https://www.youtube.com/playlist?list=PLNKXA-74YGLjMs2d7nk1HbzOcXQz4nQ3y)
+- [Таблица с вашими оценками](https://docs.google.com/spreadsheets/d/1mq5ErNkv4vTu5NnjTLPz0EnihGu_VIXaFG6r8UWBejw/edit?usp=sharing)
 - Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в общий чат. Там можно найти поддержку и пофлудить. [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/+CHyVKxegN_c3ODZi ) 
